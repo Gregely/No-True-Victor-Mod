@@ -1,0 +1,19 @@
+
+state={
+	id=801
+	name="STATE_801"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = YUG
+
+	}
+
+	provinces={
+		591 984 3974 6611 11564 11901 
+	}
+	manpower=198000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

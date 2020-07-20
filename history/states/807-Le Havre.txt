@@ -1,0 +1,14 @@
+state={
+	id=807
+	name="STATE_807"
+	history = {
+		owner = FRA
+		add_core_of = FRA
+	}
+	provinces={
+		485 6569 9434 11563 
+	}
+	manpower=185000
+	state_category = city
+	buildings_max_level_factor=1.000
+}

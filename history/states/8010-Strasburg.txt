@@ -1,0 +1,15 @@
+state={
+	id=810
+	name="STATE_810"
+	history = {
+		add_core_of = GER
+		owner = GER
+		add_claim_by = FRA
+	}
+	provinces={
+		549 9503 
+	}
+	manpower=192500
+	state_category = large_city
+	buildings_max_level_factor=1.000
+}
