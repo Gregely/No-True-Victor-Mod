@@ -1,0 +1,15 @@
+state={
+	id=800
+	name="STATE_800"
+	history = {
+		owner = BUL
+		add_core_of = BUL
+		add_core_of = SER
+	}
+	provinces={
+		11832 11857 11868 
+	}
+	manpower=224000
+	state_category = large_town
+	buildings_max_level_factor=1.000
+}

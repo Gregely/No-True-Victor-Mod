@@ -1,0 +1,10 @@
+#democratic
+#market_liberal
+#social_liberal
+#social_democrat
+#communism
+#libertarian_socialism
+#fascism
+#paternal_autocrat
+#neutrality
+#revanchism

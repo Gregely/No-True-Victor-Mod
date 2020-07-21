@@ -1,0 +1,15 @@
+state={
+	id=811
+	name="STATE_811"
+	history = {
+		add_core_of = ROM
+		owner = ROM
+		add_claim_by = DAN
+	}
+	provinces={
+		9685 9670 711 9668 3689
+	}
+	manpower=192500
+	state_category = town
+	buildings_max_level_factor=1.000
+}

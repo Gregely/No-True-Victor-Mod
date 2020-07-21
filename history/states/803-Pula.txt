@@ -1,0 +1,14 @@
+state={
+	id=803
+	name="STATE_803"
+	history = {
+		owner = YUG
+		add_core_of = YUG	
+	}
+	provinces={
+		11735 
+	}
+	manpower=74893
+	state_category = city
+	buildings_max_level_factor=1.000
+}

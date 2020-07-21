@@ -1,0 +1,19 @@
+
+state={
+	id=805
+	name="STATE_805"
+
+	history={
+		owner = LIT
+		add_core_of = LIT
+		add_claim_by = BLR
+
+	}
+
+	provinces={
+		318 3281 3366 3393 6359 6413 13206 
+	}
+	manpower=17450000
+	buildings_max_level_factor=1.000
+	state_category=city
+}
