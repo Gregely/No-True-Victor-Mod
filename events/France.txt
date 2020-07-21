@@ -1,1 +1,26 @@
-﻿
+﻿##########################
+#Revanchist French Events#
+##########################
+
+add_namespace = france
+
+country_event = {
+	id = fra.0
+    title = fra.0.t # The localisable text that appears as a header
+    desc = fra.0.d # The localisable main text body that appears
+	picture = GFX_report_event_election_vote # Image displayed alongside the text.
+
+	is_triggered_only = yes # Optional : if set to "yes" the event will only occur by command
+
+	hidden = no # Optional : if set to "yes" no one will see the event
+
+	fire_only_once = yes # Optional : if set to "yes" the event will never occur more than once
+
+      option = { # This is an example of an option that has a function
+		name = fra.0.a # The localisable text that appears on the button.
+        	declare_war_on = {
+    			target = RFR
+   			 	type = annex_everything
+				}
+	}
+}
