@@ -167,7 +167,7 @@ ideologies = {
 	
 		types = {
 			
-			conservatism = {
+			conservatism_ideology = {
 			}
 		}
 		
