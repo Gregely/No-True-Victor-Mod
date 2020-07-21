@@ -90,7 +90,7 @@ set_convoys = 300
 
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = revanchism
 	last_election = "1932.5.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -122,13 +122,12 @@ give_guarantee = CZE
 give_guarantee = YUG
 give_guarantee = ROM
 
-#Order matters here Daladier will start as leaders because added last
 create_country_leader = {
-	name = "Édouard Daladier"
+	name = "Maurice Pujo"
 	desc = "POLITICS_ÉDOUARD_DALADIER_DESC"
-	picture = "Portrait_France_Edouard_Daladier.dds"
+	picture = "Portrait_Maurice_Pujo.dds"
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = statist_revanchism
 	traits = {
 		stout_defender
 	}

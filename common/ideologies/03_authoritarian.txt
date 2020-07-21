@@ -103,7 +103,7 @@ ideologies = {
 	
 		types = {
 		
-		french_revanchism ={
+		statist_revanchism ={
 		}
 
 
