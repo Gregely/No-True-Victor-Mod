@@ -120,12 +120,12 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 17
-	fascism = 14
+	fascism = 16
 	neutrality = 15
 	communism = 0
-	revanchism = 3
-	libertarian_socialism = 9
-	paternal_autocrat = 9
+	revanchism = 0
+	libertarian_socialism = 17
+	paternal_autocrat = 0
 	market_liberal = 16
 	social_liberal = 5
 	social_democrat = 12

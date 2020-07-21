@@ -1,14 +1,15 @@
 state={
-	id=803
-	name="STATE_803"
+	id=812
+	name="STATE_812"
 	history = {
 		owner = FIU
-		add_core_of = FIU	
+		add_core_of = FIU
+		
 	}
 	provinces={
-		11735 
+		11564 
 	}
-	manpower=74893
+	manpower=214500
 	state_category = city
 	buildings_max_level_factor=1.000
 }
