@@ -795,7 +795,6 @@
  STATE_794:0 "Eastern Aragón"
  STATE_795:0 "Santarém"
  STATE_796:0 "North Angola"
- ###############################
  STATE_797:0 "Kuyavia"
  STATE_798:0 "Lubusz"
  STATE_799:0 "South Bohemia"
@@ -811,3 +810,4 @@
  STATE_809:0 "North Schleswig"
  STATE_810:0 "Strasburg"
  STATE_811:0 "Székelyland"
+ STATE_812:0 "Fiume-Rijeka"

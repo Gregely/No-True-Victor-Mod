@@ -717,3 +717,7 @@ RFR = {
 	color = rgb { 57 113 228 }
 	color_ui = rgb { 74 147 255 }
 }
+FIU = {
+	color = rgb { 66 133 106 }
+	color_ui = rgb { 76 143 106 }
+}
