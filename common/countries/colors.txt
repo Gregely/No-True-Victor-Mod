@@ -721,3 +721,7 @@ FIU = {
 	color = rgb { 66 133 106 }
 	color_ui = rgb { 76 143 106 }
 }
+RUS = {
+	color = rgb { 72 133 69 }
+	color_ui = rgb { 72 133 69 }
+}
