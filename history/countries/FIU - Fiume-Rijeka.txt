@@ -26,6 +26,6 @@ set_politics = {
 set_popularities = {
 	social_liberal = 33
 	social_democrat = 29
-	social_conservative = 27
+	democratic = 27
 	fascism = 11
 }
