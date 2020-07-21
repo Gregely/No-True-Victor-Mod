@@ -96,16 +96,16 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 10
-	fascism = 10
-	neutrality = 10
-	communism = 10
-	revanchism = 10
-	libertarian_socialism = 10
-	paternal_autocrat = 10
-	market_liberal = 10
-	social_liberal = 10
-	social_democrat = 10
+	democratic = 21
+	fascism = 0
+	neutrality = 0
+	communism = 21
+	revanchism = 38
+	libertarian_socialism = 0
+	paternal_autocrat = 0
+	market_liberal = 8
+	social_liberal = 0
+	social_democrat = 12
 }
 
 add_ideas = {
