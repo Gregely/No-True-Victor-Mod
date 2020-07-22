@@ -121,12 +121,12 @@ set_politics = {
 set_popularities = {
 	democratic = 25
 	fascism = 20
-	neutrality = 15
+	neutrality = 13
 	communism = 0
 	revanchism = 0
 	libertarian_socialism = 19
 	paternal_autocrat = 0
-	market_liberal = 21
+	market_liberal = 18
 	social_liberal = 0
 	social_democrat = 5
 }
