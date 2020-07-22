@@ -1,8 +1,10 @@
 ideas = {
+
 #######
 ##FRA##
 #######
-head_of_government = {
+
+	head_of_government = {
 	FRA_Xavier_Vallat_hog_rev = {
       allowed = { original_tag = FRA }
       available = {
@@ -21,7 +23,6 @@ head_of_government = {
         hog_flamboyant_tough_guy
       }
     }
-  }
 
   	FRA_Charles_Maurras_hog_rev = {
 			allowed = { original_tag = FRA }
@@ -41,4 +42,69 @@ head_of_government = {
 				hog_flamboyant_tough_guy
 			}
 		}
+	}
+
+	foreign_minister = {
+		FRA_Maurice_Pujo_for_rev = {
+			allowed = { original_tag = FRA }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = minister_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea FRA_Maurice_Pujo_for_pau"
+			}
+			traits = {
+				foreign_minister
+				revanchism
+				for_biased_intellectual
+			}
+		}
+	}
+
+	economy_minister = {
+
+		FRA_Eugene_Schueller_eco_rev = {
+			allowed = { original_tag = FRA }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = minister_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea NFA_Eugene_Schueller_eco_pau"
+			}
+			traits = {
+				economy_minister
+				revanchism
+				eco_resource_industrialist
+			}
+		}
+	}
+
+	security_minister = {
+		FRA_Pierre_Costantini_sec_pau = {
+			allowed = { original_tag = FRA }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = minister_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea NFA_Pierre_Costantini_sec_pau"
+			}
+			traits = {
+				security_minister
+				revanchism
+				sec_prince_of_terror
+			}
+		}
+	}
 }

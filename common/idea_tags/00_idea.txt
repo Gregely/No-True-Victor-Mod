@@ -34,9 +34,9 @@ idea_categories = {
 
 	minister = {
 		slot = head_of_government
-		slot = person_of_influence
-		slot = person_of_influence
-		slot = person_of_influence
+		slot = foreign_minister
+		slot = economy_minister
+		slot = security_minister
 
 		ledger = civilian
 
