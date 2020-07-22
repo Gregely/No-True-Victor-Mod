@@ -111,25 +111,25 @@ ideas = {
 	}
 
 	country = {
-		radical_socialist_influence = {
+		libertarian_socialism_influence = {
 			picture = generic_syndicalism_drift_bonus
 			allowed_civil_war = {
-				has_government = radical_socialist
+				has_government = libertarian_socialism
 			}
 			modifier = {
-				radical_socialist_drift = 0.1
-				radical_socialist_acceptance = 85
+				libertarian_socialism_drift = 0.1
+				libertarian_socialism_acceptance = 85
 			}
 		}
 
-		syndicalist_influence = {
+		authoritarian_socialism_influence = {
 			picture = generic_syndicalism_drift_bonus
 			allowed_civil_war = {
-				has_government = syndicalist
+				has_government = communism
 			}
 			modifier = {
-				syndicalist_drift = 0.1
-				syndicalist_acceptance = 85
+				communism_drift = 0.1
+				communism_acceptance = 85
 			}
 		}
 		totalist_influence = {
@@ -179,22 +179,22 @@ ideas = {
 		social_conservative_influence = {
 			picture = generic_democratic_drift_bonus
 			allowed_civil_war = {
-				has_government = social_conservative
+				has_government = democratic
 			}
 			modifier = {
-				social_conservative_drift = 0.1
-				social_conservative_acceptance = 85
+				democratic_drift = 0.1
+				democratic_acceptance = 85
 			}
 		}
 
-		authoritarian_democrat_influence = {
+		reactionary_democrat_influence = {
 			picture = generic_democratic_drift_bonus
 			allowed_civil_war = {
-				has_government = authoritarian_democrat
+				has_government = neutrality
 			}
 			modifier = {
-				authoritarian_democrat_drift = 0.1
-				authoritarian_democrat_acceptance = 85
+				neutrality_drift = 0.1
+				neutrality_acceptance = 85
 			}
 		}
 
@@ -212,11 +212,11 @@ ideas = {
 		national_populist_influence = {
 			picture = generic_fascism_drift_bonus
 			allowed_civil_war = {
-				has_government = national_populist
+				has_government = fascism
 			}
 			modifier = {
-				national_populist_drift = 0.1
-				national_populist_acceptance = 85
+				fascism_drift = 0.1
+				fascism_acceptance = 85
 			}
 		}
 
