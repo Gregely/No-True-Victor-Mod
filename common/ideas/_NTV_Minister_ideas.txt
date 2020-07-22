@@ -1,0 +1,44 @@
+ideas = {
+#######
+##FRA##
+#######
+head_of_government = {
+	FRA_Xavier_Vallat_hog_rev = {
+      allowed = { original_tag = FRA }
+      available = {
+        custom_trigger_tooltip = {
+          tooltip = head_of_gov_available
+          always = no
+        }
+      }
+      cancel_if_invalid = no
+      on_add = {
+        log = "[GetDateText]: [Root.GetName]: add idea FRA_Xavier_Vallat_hog_rev"
+      }
+      traits = {
+        head_of_government
+        national_populist
+        hog_flamboyant_tough_guy
+      }
+    }
+  }
+
+  	FRA_Charles_Maurras_hog_rev = {
+			allowed = { original_tag = FRA }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = head_of_gov_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea FRA_Charles_Maurras_hog_rev"
+			}
+			traits = {
+				head_of_government
+				revanchism
+				hog_flamboyant_tough_guy
+			}
+		}
+}

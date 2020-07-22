@@ -32,9 +32,9 @@ leader_traits = {
 # Political ideologies
 #####################
 
-	totalist = {}
-	radical_socialist = {}
-	syndicalist = {}
+	revanchism = {}
+	libertarian_socialism = {}
+	communism = {}
 	social_democrat = {}
 	social_liberal = {}
 	market_liberal = {}
