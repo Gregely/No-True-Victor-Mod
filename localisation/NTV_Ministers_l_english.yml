@@ -1,5 +1,12 @@
 ﻿l_english:
+#Minister Slots
+minister_available:0 "Disabled for the purposes of NTV"
 foreign_minister:0 "Foreign Minister"
+economy_minister:0 "Economy Minister"
+security_minister:0 "Security Minister"
+#Ministers
 FRA_Charles_Maurras_hog_rev:0 "Charles Maurras"
 FRA_Xavier_Vallat_hog_rev:0 "Xavier Vallat"
 FRA_Maurice_Pujo_for_rev:0 "Maurice Pujo"
+FRA_Eugene_Schueller_eco_rev:0 "Eugene Schueller"
+FRA_Pierre_Costantini_sec_rev:0 "Pierre Constantini"

@@ -88,7 +88,7 @@ ideas = {
 	}
 
 	security_minister = {
-		FRA_Pierre_Costantini_sec_pau = {
+		FRA_Pierre_Costantini_sec_rev = {
 			allowed = { original_tag = FRA }
 			available = {
 				custom_trigger_tooltip = {

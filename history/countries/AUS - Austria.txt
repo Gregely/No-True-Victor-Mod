@@ -33,6 +33,11 @@ set_popularities = {
 	social_liberal = 25
 	social_democrat = 17
 }
+create_faction = Triarchy
+add_to_faction = CZE
+add_to_faction = YUG
+puppet = CZE
+puppet = YUG
 
 set_stability = 0.45
 set_war_support = 0.30

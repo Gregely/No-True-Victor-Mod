@@ -191,7 +191,7 @@ set_popularities = {
 }
 
 
-create_faction = Imperial Defensive Pact
+create_faction = imperial_defensive_pact
 add_to_faction = ENG
 #add_to_faction = FRA
 add_to_faction = CAN
