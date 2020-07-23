@@ -6,7 +6,7 @@
  FACTION_NAME_GER_fascism:0 "Axis"
  FACTION_NAME_GER_none:0 "Axis"
  FACTION_NAME_IDEOLOGY_DEFAULT:0 "Supporters of $IDEOLOGY$"
- imperial_defense_pact:0 "Imperial Defensive Pact"
+ imperial_defensive_pact:0 "Imperial Defensive Pact"
  french_alliance:0 "French Alliance"
  the_berlin_moscow_axis:0 "The Berlin-Moscow Axis"
  domination_francaise:0 "Domination Française"

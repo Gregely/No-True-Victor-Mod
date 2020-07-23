@@ -539,7 +539,7 @@ guiTypes = {
 				add_horizontal = yes
 				max_slots_vertical = 1
 				max_slots_horizontal = 1
-				format = "UPPER_LEFT"
+				format = "CENTER"
 			}
 		}
 		
