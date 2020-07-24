@@ -128,7 +128,7 @@ ideas = {
 			traits = {
 				secondary_head
 				social_conservative
-				hog_flamboyant_tough_guy
+				hog_silent_workhorse
 			}
 		}
 	}

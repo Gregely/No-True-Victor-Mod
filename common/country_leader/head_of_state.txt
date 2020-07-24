@@ -288,25 +288,25 @@ leader_traits = {
 	TAN_first_reformer = {
 		random = no
 		political_power_gain = 0.05
-		democratic_drift = 0.01
+		democrat_drift = 0.01
 		neutrality_drift = 0.01
 	}
 	TAN_first_reformer2 = {
 		random = no
 		political_power_gain = 0.10
-		democratic_drift = 0.01
+		democrat_drift = 0.01
 	}
 	TAN_first_reformer3 = {
 		random = no
 		political_power_gain = 0.10
-		democratic_drift = 0.01
+		democrat_drift = 0.01
 		neutrality_drift = 0.01
 		stability_factor = 0.10
 	}
 	TAN_first_reformer4 = {
 		random = no
 		political_power_gain = 0.10
-		democratic_drift = 0.01
+		democrat_drift = 0.01
 		stability_factor = 0.10
 	}
 	XSM_hero_northwest = {

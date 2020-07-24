@@ -6,9 +6,6 @@ state={
 		owner = GER
 		add_claim_by = FRA
 	}
-	victory_points = {
-		9503 5 
-	}
 	provinces={
 		549 9503 
 	}
