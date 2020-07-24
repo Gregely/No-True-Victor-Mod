@@ -7,6 +7,6 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_idea_no_true_victor_idea"
-		texturefile = "gfx\interface\ideas\ideas\death_men.tga"
+		texturefile = "gfx/interface/ideas/ideas/death_men.tga"
 	}
 }
