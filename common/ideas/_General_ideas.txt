@@ -5,9 +5,9 @@ ideas = {
 	country = {
 		no_true_victor_idea = {
 			name = no_true_victor_name
-			picture = GER_flag_idea
+			picture = death_men.tga
 			modifier = {
-				war_support_factor = -0.25
+				war_support_factor = -0.15
 				stability_factor = -0.1
 			}
 		}

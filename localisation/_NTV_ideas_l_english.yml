@@ -1,7 +1,8 @@
 ﻿l_english:
+#Generic Ideas
 KR_mobilization_laws:0 "Mobilization Laws"
 KR_trade_laws:0 "Trade Laws"
 KR_economy:0 "Economy"
-head_of_government:0 "Head of Government"
-person_of_influence:0 "Foreign Minister"
-person_of_influence:1 "Economy Minister"
+#General Ideas
+no_true_victor_name:0 "No True Victor"
+no_true_victor_idea_desc:0 "This country participated in the war to end all wars, the war that ended with no victor. Even now [Root.GetNameDef] suffers greatly from the effects of the Great War, one of those being the population's waryness of yet another bloody conflict."
