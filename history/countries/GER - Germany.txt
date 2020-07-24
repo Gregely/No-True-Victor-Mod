@@ -133,25 +133,30 @@ set_popularities = {
 
 
 add_ideas = {
-	GER_Paul_von_Lettow_Vorbeck_hog_mli
-	GER_Johann_Schwerin_von_Krosigk_for_ade
-	GER_Fritz_Schaeffer_eco_sco
-	GER_Franz_von_Papen_sec_ade
+	GER_Wilhelm_III_shd_sco
+	GER_Franz_von_Papen_for_ade
+	GER_Claus_Schenck_von_Stauffenberg_eco_ade
+	GER_Helmuth_von_Moltke_sec_sco
 	no_true_victor_idea
 	limited_exports
 	limited_conscription
 	partial_economic_mobilisation
 }
-add_ideas = GER_mefo_bills_1
 
-activate_mission = GER_mefo_bills_mission
+create_country_leader = {
+	name = "Erich Ludendorff"
+	desc = "POLITICS_ADOLF_HITLER_DESC"
+	picture = "Portrait_Erich_Ludendorff.dds"
+	expire = "1965.1.1"
+	ideology = reactionary_ideology
+}
 
 create_country_leader = {
 	name = "Kaiser Wilhelm III"
 	desc = "POLITICS_ADOLF_HITLER_DESC"
 	picture = "Portrait_Germany_Wilhelm_III.tga"
 	expire = "1965.1.1"
-	ideology = reactionary_ideology
+	ideology = absolue_monarchy
 }
 
 create_country_leader = {

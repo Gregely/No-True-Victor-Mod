@@ -10,7 +10,7 @@ leader_traits = {
 # Minister
 #####################
 
-	head_of_government = {}
+	secondary_head = {}
 	foreign_minister = {}
 	economy_minister = {}
 	security_minister = {}
@@ -32,14 +32,14 @@ leader_traits = {
 # Political ideologies
 #####################
 
-	revanchism = {}
-	libertarian_socialism = {}
-	communism = {}
+	revanchist = {}
+	libertarian_socialist = {}
+	authoritarian_socialist = {}
 	social_democrat = {}
 	social_liberal = {}
 	market_liberal = {}
 	social_conservative = {}
-	authoritarian_democrat = {}
+	reactionary_democrat = {}
 	paternal_autocrat = {}
 	national_populist = {}
 

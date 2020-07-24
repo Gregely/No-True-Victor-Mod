@@ -24,6 +24,7 @@ idea_categories = {
 	}
 
 	government = {
+		slot = secondary_head
 		slot = KR_mobilization_laws
 		slot = KR_trade_laws
 		slot = KR_economy
@@ -33,7 +34,6 @@ idea_categories = {
 	}
 
 	minister = {
-		slot = head_of_government
 		slot = foreign_minister
 		slot = economy_minister
 		slot = security_minister

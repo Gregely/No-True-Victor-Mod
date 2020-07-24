@@ -4,45 +4,45 @@ ideas = {
 ##FRA##
 #######
 
-	head_of_government = {
-	FRA_Xavier_Vallat_hog_rev = {
-      allowed = { original_tag = FRA }
-      available = {
-        custom_trigger_tooltip = {
-          tooltip = head_of_gov_available
-          always = no
-        }
-      }
-      cancel_if_invalid = no
-      on_add = {
-        log = "[GetDateText]: [Root.GetName]: add idea FRA_Xavier_Vallat_hog_rev"
-      }
-      traits = {
-        head_of_government
-        national_populist
-        hog_flamboyant_tough_guy
-      }
-    }
-
-  	FRA_Charles_Maurras_hog_rev = {
-			allowed = { original_tag = FRA }
-			available = {
-				custom_trigger_tooltip = {
-					tooltip = head_of_gov_available
-					always = no
+	secondary_head = {
+		FRA_Xavier_Vallat_shd_rev = {
+	      allowed = { original_tag = FRA }
+	      available = {
+	        custom_trigger_tooltip = {
+	          tooltip = head_of_gov_available
+	          always = no
+	        }
+	      }
+	      cancel_if_invalid = no
+	      on_add = {
+	        log = "[GetDateText]: [Root.GetName]: add idea FRA_Xavier_Vallat_hog_rev"
+	      }
+	      traits = {
+	        secondary_head
+	        national_populist
+	        hog_flamboyant_tough_guy
+	      }
+	    }
+	
+	  	FRA_Charles_Maurras_hog_rev = {
+				allowed = { original_tag = FRA }
+				available = {
+					custom_trigger_tooltip = {
+						tooltip = head_of_gov_available
+						always = no
+					}
+				}
+				cancel_if_invalid = no
+				on_add = {
+					log = "[GetDateText]: [Root.GetName]: add idea FRA_Charles_Maurras_hog_rev"
+				}
+				traits = {
+					secondary_head
+					revanchist
+					hog_flamboyant_tough_guy
 				}
 			}
-			cancel_if_invalid = no
-			on_add = {
-				log = "[GetDateText]: [Root.GetName]: add idea FRA_Charles_Maurras_hog_rev"
-			}
-			traits = {
-				head_of_government
-				revanchism
-				hog_flamboyant_tough_guy
-			}
 		}
-	}
 
 	foreign_minister = {
 		FRA_Maurice_Pujo_for_rev = {
@@ -59,7 +59,7 @@ ideas = {
 			}
 			traits = {
 				foreign_minister
-				revanchism
+				revanchist
 				for_biased_intellectual
 			}
 		}
@@ -81,7 +81,7 @@ ideas = {
 			}
 			traits = {
 				economy_minister
-				revanchism
+				revanchist
 				eco_resource_industrialist
 			}
 		}
@@ -102,8 +102,96 @@ ideas = {
 			}
 			traits = {
 				security_minister
-				revanchism
+				revanchist
 				sec_prince_of_terror
+			}
+		}
+	}
+
+	#######
+	##GER##
+	#######
+	
+	secondary_head = {
+		GER_Wilhelm_III_shd_sco = {
+			allowed = { original_tag = GER }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = head_of_gov_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea GER_Heinrich_Bruening_hog_sco"
+			}
+			traits = {
+				secondary_head
+				social_conservative
+				hog_silent_workhorse
+			}
+		}
+	}
+
+	foreign_minister = {
+		GER_Franz_von_Papen_for_ade = {
+			allowed = { original_tag = GER }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = minister_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea GER_Franz_von_Papen_for_ade"
+			}
+			traits = {
+				foreign_minister
+				reactionary_democrat
+				for_great_compromiser
+			}
+		}
+	}
+
+	economy_minister = {
+		GER_Claus_Schenck_von_Stauffenberg_eco_ade = {
+			allowed = { original_tag = GER }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = minister_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea GER_Claus_Schenck_von_Stauffenberg_eco_ade"
+			}
+			traits = {
+				economy_minister
+				reactionary_democrat
+				eco_reformer
+			}
+		}
+	}
+
+	security_minister = {
+		GER_Helmuth_von_Moltke_sec_sco = {
+			allowed = { original_tag = GER }
+			available = {
+				custom_trigger_tooltip = {
+					tooltip = minister_available
+					always = no
+				}
+			}
+			cancel_if_invalid = no
+			on_add = {
+				log = "[GetDateText]: [Root.GetName]: add idea GER_Helmuth_von_Moltke_sec_sco"
+			}
+			traits = {
+				security_minister
+				social_conservative
+				sec_compassionate_gentleman
 			}
 		}
 	}

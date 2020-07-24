@@ -48,9 +48,6 @@ create_country_leader = {
 	picture = "Portrait_AUS_Karl_I.tga"
 	expire = "1965.1.1"
 	ideology = social_liberal_ideology
-	traits = {
-		#
-	}
 }
 
 create_country_leader = {

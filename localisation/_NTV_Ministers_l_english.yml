@@ -1,12 +1,17 @@
 ﻿l_english:
 #Minister Slots
-minister_available:0 "Disabled for the purposes of NTV"
+minister_available:0 "Only changeable through focuses/events"
+secondary_head:0 "Secondary Head"
 foreign_minister:0 "Foreign Minister"
 economy_minister:0 "Economy Minister"
 security_minister:0 "Security Minister"
+minister:0 "Ministers"
 #Ministers
-FRA_Charles_Maurras_hog_rev:0 "Charles Maurras"
+  #FRA
+FRA_Charles_Maurras_shd_rev:0 "Charles Maurras §CPrime Minister§!"
 FRA_Xavier_Vallat_hog_rev:0 "Xavier Vallat"
 FRA_Maurice_Pujo_for_rev:0 "Maurice Pujo"
 FRA_Eugene_Schueller_eco_rev:0 "Eugene Schueller"
 FRA_Pierre_Costantini_sec_rev:0 "Pierre Constantini"
+  #GER
+GER_Wilhelm_III_shd_sco:0 "Wilhelm III §CKaiser§!"

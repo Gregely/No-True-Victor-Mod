@@ -19347,8 +19347,8 @@ spriteTypes = {
 
 	### Head of Government
 	spriteType = {
-		name = "GFX_idea_GER_Hans_Vogel_hog_sde"
-		texturefile = "gfx/interface/ministers/GER/GER_Hans_Vogel.tga"
+		name = "GFX_idea_GER_Wilhelm_III_shd_sco"
+		texturefile = "gfx/interface/ministers/GER/GER_Wilhelm_III.dds"
 	}
 	spriteType = {
 		name = "GFX_idea_GER_Kurt_Schumacher_hog_sde"
