@@ -1,0 +1,15 @@
+state={
+	id=813
+	name="STATE_813"
+	history = {
+		owner = GER
+		add_core_of = SOM
+		
+	}
+	provinces={
+		8164 11014 12941 
+	}
+	manpower=214500
+	state_category = city
+	buildings_max_level_factor=1.000
+}

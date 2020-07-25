@@ -725,3 +725,7 @@ RUS = {
 	color = rgb { 72 133 69 }
 	color_ui = rgb { 72 133 69 }
 }
+WAF = {
+	color = rgb { 221 56 132 }
+	color_ui = rgb { 255 73 121 }
+}
